@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/passdapp/static/css/main.008d210b.chunk.css",
-    "main.js": "/passdapp/static/js/main.191e9cf3.chunk.js",
-    "main.js.map": "/passdapp/static/js/main.191e9cf3.chunk.js.map",
+    "main.js": "/passdapp/static/js/main.b1d287d4.chunk.js",
+    "main.js.map": "/passdapp/static/js/main.b1d287d4.chunk.js.map",
     "runtime-main.js": "/passdapp/static/js/runtime-main.c6f80250.js",
     "runtime-main.js.map": "/passdapp/static/js/runtime-main.c6f80250.js.map",
     "static/css/2.081f420c.chunk.css": "/passdapp/static/css/2.081f420c.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.081f420c.chunk.css",
     "static/js/2.ee4e01d6.chunk.js",
     "static/css/main.008d210b.chunk.css",
-    "static/js/main.191e9cf3.chunk.js"
+    "static/js/main.b1d287d4.chunk.js"
   ]
 }
