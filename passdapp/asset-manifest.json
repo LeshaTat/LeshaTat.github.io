@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/passdapp/static/css/main.c0102350.chunk.css",
-    "main.js": "/passdapp/static/js/main.1ad9d426.chunk.js",
-    "main.js.map": "/passdapp/static/js/main.1ad9d426.chunk.js.map",
+    "main.js": "/passdapp/static/js/main.dc6d5d43.chunk.js",
+    "main.js.map": "/passdapp/static/js/main.dc6d5d43.chunk.js.map",
     "runtime-main.js": "/passdapp/static/js/runtime-main.c6f80250.js",
     "runtime-main.js.map": "/passdapp/static/js/runtime-main.c6f80250.js.map",
     "static/css/2.081f420c.chunk.css": "/passdapp/static/css/2.081f420c.chunk.css",
-    "static/js/2.e48472aa.chunk.js": "/passdapp/static/js/2.e48472aa.chunk.js",
-    "static/js/2.e48472aa.chunk.js.map": "/passdapp/static/js/2.e48472aa.chunk.js.map",
+    "static/js/2.875720d5.chunk.js": "/passdapp/static/js/2.875720d5.chunk.js",
+    "static/js/2.875720d5.chunk.js.map": "/passdapp/static/js/2.875720d5.chunk.js.map",
     "index.html": "/passdapp/index.html",
     "static/css/2.081f420c.chunk.css.map": "/passdapp/static/css/2.081f420c.chunk.css.map",
     "static/css/main.c0102350.chunk.css.map": "/passdapp/static/css/main.c0102350.chunk.css.map",
-    "static/js/2.e48472aa.chunk.js.LICENSE.txt": "/passdapp/static/js/2.e48472aa.chunk.js.LICENSE.txt"
+    "static/js/2.875720d5.chunk.js.LICENSE.txt": "/passdapp/static/js/2.875720d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6f80250.js",
     "static/css/2.081f420c.chunk.css",
-    "static/js/2.e48472aa.chunk.js",
+    "static/js/2.875720d5.chunk.js",
     "static/css/main.c0102350.chunk.css",
-    "static/js/main.1ad9d426.chunk.js"
+    "static/js/main.dc6d5d43.chunk.js"
   ]
 }
